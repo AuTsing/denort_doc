@@ -1,0 +1,18 @@
+{
+    "name": "denort_doc",
+    "version": "0.1.0",
+    "description": "Doc of Denort",
+    "main": "index.js",
+    "repository": "git@github.com:AuTsing/denort_doc.git",
+    "author": "AuTsing <763025696@qq.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "vitepress": "^1.0.0-alpha.25",
+        "vue": "^3.2.41"
+    },
+    "scripts": {
+        "docs:dev": "vitepress dev docs",
+        "docs:build": "vitepress build docs",
+        "docs:serve": "vitepress serve docs"
+    }
+}
