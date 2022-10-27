@@ -6,7 +6,7 @@ hero:
     text: 安卓自动化工作平台
     tagline: 安卓首个基于 Deno 引擎的 JavaScript 和 TypeScript 运行时
     image:
-        src: /assets/logo.png
+        src: /deno.png
         alt: Denort
     actions:
         - theme: brand

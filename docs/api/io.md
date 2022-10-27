@@ -2,7 +2,7 @@
 
 该模块提供对安卓设备的输入输出操作。
 
-## io.toast(...args: any)
+## io.toast
 
 `io.toast(...args: any)`
 
