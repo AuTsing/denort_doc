@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
+    base: '/denort_doc/',
     title: 'Denort',
     description: 'Doc of Denort',
     themeConfig: {
