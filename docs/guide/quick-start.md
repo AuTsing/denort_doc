@@ -17,7 +17,7 @@ Denort 应用仍然处于非常初期的开发阶段，API 尚不稳定，请及
 
 :::
 
-你可以从下载链接或者在群中获取该应用，然后安装。
+你可以从[release](https://github.com/AuTsing/denort_release/releases)中或者在群中获取该应用，然后安装。
 
 ## 创建工程
 

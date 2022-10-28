@@ -14,4 +14,5 @@ hero:
           link: /guide/quick-start
         - theme: alt
           text: 下载 APP
+          link: https://github.com/AuTsing/denort_release/releases
 ---

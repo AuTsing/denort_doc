@@ -1,6 +1,6 @@
 {
     "name": "denort_doc",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "description": "Doc of Denort",
     "main": "index.js",
     "repository": "git@github.com:AuTsing/denort_doc.git",
